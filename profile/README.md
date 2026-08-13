@@ -4,4 +4,4 @@
 
 ### 🌐 Find Us Online
 
-* **Website:** [themilkcompany.ai](https://themilkcompany.ai)
+* **Website:** [milkup.ai](https://milkup.ai)
